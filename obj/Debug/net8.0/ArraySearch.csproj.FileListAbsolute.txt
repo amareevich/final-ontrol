@@ -1,0 +1,14 @@
+C:\Users\amarey\Documents\С#\ArraySearch\bin\Debug\net8.0\ArraySearch.exe
+C:\Users\amarey\Documents\С#\ArraySearch\bin\Debug\net8.0\ArraySearch.deps.json
+C:\Users\amarey\Documents\С#\ArraySearch\bin\Debug\net8.0\ArraySearch.runtimeconfig.json
+C:\Users\amarey\Documents\С#\ArraySearch\bin\Debug\net8.0\ArraySearch.dll
+C:\Users\amarey\Documents\С#\ArraySearch\bin\Debug\net8.0\ArraySearch.pdb
+C:\Users\amarey\Documents\С#\ArraySearch\obj\Debug\net8.0\ArraySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarey\Documents\С#\ArraySearch\obj\Debug\net8.0\ArraySearch.AssemblyInfoInputs.cache
+C:\Users\amarey\Documents\С#\ArraySearch\obj\Debug\net8.0\ArraySearch.AssemblyInfo.cs
+C:\Users\amarey\Documents\С#\ArraySearch\obj\Debug\net8.0\ArraySearch.csproj.CoreCompileInputs.cache
+C:\Users\amarey\Documents\С#\ArraySearch\obj\Debug\net8.0\ArraySearch.dll
+C:\Users\amarey\Documents\С#\ArraySearch\obj\Debug\net8.0\refint\ArraySearch.dll
+C:\Users\amarey\Documents\С#\ArraySearch\obj\Debug\net8.0\ArraySearch.pdb
+C:\Users\amarey\Documents\С#\ArraySearch\obj\Debug\net8.0\ArraySearch.genruntimeconfig.cache
+C:\Users\amarey\Documents\С#\ArraySearch\obj\Debug\net8.0\ref\ArraySearch.dll
